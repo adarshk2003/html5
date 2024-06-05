@@ -1,0 +1,11 @@
+.d1{
+    color: black;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.t1{
+    color: black;
+    background-color: blueviolet;
+}
